@@ -1,2 +1,2 @@
 # raspberrypi
-Raspberry Pi Programs
+Raspberry Pi Programs - Connecting Sensors with Raspberry Pi
