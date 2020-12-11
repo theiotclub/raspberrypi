@@ -1,3 +1,7 @@
+# Run the below commands in the terminal before executing the program
+# export EMAIL_USER="<email address>"
+# export EMAIL_PASS="<email password>"
+
 import smtplib, ssl
 from email.message import EmailMessage
 import os
